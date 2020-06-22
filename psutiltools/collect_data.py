@@ -5,6 +5,9 @@ import psutil
 
 WAIT_SECONDS = 1
 
+"""
+    psutil documentation: https://psutil.readthedocs.io/en/latest/
+"""
 
 def repeat_per_second():
     """
