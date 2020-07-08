@@ -1,3 +1,5 @@
 psutl documentation:
 
 https://psutil.readthedocs.io/en/latest/
+
+Collects system data and dumps the information into an external text file.
